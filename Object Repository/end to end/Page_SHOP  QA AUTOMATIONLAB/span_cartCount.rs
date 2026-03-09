@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_cartCount</name>
+   <tag></tag>
+   <elementGuidId>6989c500-c33a-4281-af4d-b065f8ca3958</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cartCount</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'cartCount']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>52db05d0-e8fd-4962-9479-d89421a458d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cartCount</value>
+      <webElementGuid>1cd361ec-65b9-4471-bb51-f17e7d307a2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>badge text-primary border border-primary rounded-circle</value>
+      <webElementGuid>48ddd82e-9c76-41d2-a30f-1a85e840cad1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>7a645898-62c9-4afc-9f06-4cb3c281debf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-01d644897d3f2f6f143397a6a267cc1a</value>
+      <webElementGuid>d53bfc3b-f3fb-4fcb-a264-fa534c2a9500</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'cartCount']</value>
+      <webElementGuid>e298d5e5-832b-4ea6-ace8-a9b882b2527d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'cartCount']</value>
+      <webElementGuid>4acdcafd-cebd-47b3-9da4-0c3265286917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'cartCount' and (text() = '1' or . = '1')]</value>
+      <webElementGuid>7a45a72d-609e-4cc9-b8de-2d68985f8506</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

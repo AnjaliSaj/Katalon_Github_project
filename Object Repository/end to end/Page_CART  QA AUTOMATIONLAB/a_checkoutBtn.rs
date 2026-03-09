@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_checkoutBtn</name>
+   <tag></tag>
+   <elementGuidId>7b199407-4667-40ec-8b56-3e96c099da5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#checkoutBtn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'checkoutBtn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0b8d0897-e5bf-4f4e-a397-df26b7073d8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>checkout.php</value>
+      <webElementGuid>67574b26-01f0-4d96-b064-f466f0d9215f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>checkoutBtn</value>
+      <webElementGuid>3246590b-89e1-49e3-b74e-acd28a9e159e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-block btn-primary font-weight-bold my-3 py-3</value>
+      <webElementGuid>3cd395a6-21ed-4862-81ef-730d555654a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Proceed To Checkout</value>
+      <webElementGuid>82f3c4f3-d304-4024-bf32-e6d479e69904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c4ff22d8fb95463a2ad86f7726221d78</value>
+      <webElementGuid>a89408fc-8a49-4a14-b043-cb37e9d18a51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'checkoutBtn']</value>
+      <webElementGuid>6f90d54e-9b4c-47b1-b181-876b901bdfa7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'checkoutBtn']</value>
+      <webElementGuid>65f2e543-056f-4654-9ab4-d77b619037c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'checkout.php' and @id = 'checkoutBtn' and (text() = 'Proceed To Checkout' or . = 'Proceed To Checkout')]</value>
+      <webElementGuid>ed59a7ac-261f-4a1f-9d3a-2cee90feefc0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
