@@ -13,6 +13,10 @@
          <key>XPATH</key>
          <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' header-menu-container ')]//*[@href = 'https://shop.qaautomationlabs.com/']</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'https://shop.qaautomationlabs.com/' and (text() = 'Shop' or . = 'Shop')]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2972fbf2-ad47-411b-b87b-1b35172eb70a</webElementGuid>
+      <webElementGuid>01eb5ae5-16f0-4af3-860e-584d61945d3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://shop.qaautomationlabs.com/</value>
-      <webElementGuid>e77c2f69-3690-4de2-9b5c-d35c782d96e8</webElementGuid>
+      <webElementGuid>4c47ddee-3a63-4371-b3ea-067d337fde8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Shop</value>
-      <webElementGuid>187265f4-768a-400f-a18a-e21ecae0ba1d</webElementGuid>
+      <webElementGuid>b3c1c6c8-e36a-4e8e-ab61-78b83f69e710</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-dc355687316c7eaf04e36efcff3b0844</value>
-      <webElementGuid>a8a27936-c69a-4e0f-b3ca-074198402460</webElementGuid>
+      <webElementGuid>4d2d99bd-a2f6-4f4c-88ed-5b934dd40582</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' header-menu-container ')]//*[@href = 'https://shop.qaautomationlabs.com/']</value>
-      <webElementGuid>a83443d7-b03e-4723-b53a-4bd4342391fb</webElementGuid>
+      <webElementGuid>29d777b1-6169-429d-90b8-74367006c99f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' header-menu-container ')]//*[@href = 'https://shop.qaautomationlabs.com/']</value>
-      <webElementGuid>0ecc07eb-f48f-4cc4-b35f-0589a8987798</webElementGuid>
+      <webElementGuid>79926659-7183-442b-8e3f-95ca2a99f726</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +81,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://shop.qaautomationlabs.com/' and (text() = 'Shop' or . = 'Shop')]</value>
-      <webElementGuid>01d8fb7e-9a0d-4315-b577-0becb83bce93</webElementGuid>
+      <webElementGuid>199c1fcc-b812-4bf9-8196-cb8f18da56f7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

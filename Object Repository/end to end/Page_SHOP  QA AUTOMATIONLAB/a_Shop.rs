@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password</name>
+   <name>a_Shop</name>
    <tag></tag>
-   <elementGuidId>a97e96c3-a18b-438f-9e0c-a6e7fa6469cc</elementGuidId>
+   <elementGuidId>5d886800-4a85-45b6-8cd6-03d0e8e1d399</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#password</value>
+         <value>.breadcrumb-item[href=&quot;shop\.php&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'password']</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'password' and @id = 'password' and @placeholder = 'Password']</value>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' breadcrumb-item ') and (@href = 'shop.php')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -32,71 +28,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>08bb943d-1731-45bc-8555-a655bcee4826</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>52cdbf0e-ba55-411c-88e8-0610030a7509</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>b8f04f28-0693-4b03-a5d7-0d70cdaa8cc0</webElementGuid>
+      <value>a</value>
+      <webElementGuid>bff40c84-825a-4f88-a966-3ecaaa8796ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>15f8fe2a-bf5f-42db-bacf-5786feeebce6</webElementGuid>
+      <value>breadcrumb-item text-dark</value>
+      <webElementGuid>89cadb0d-8eee-403f-bdef-6dbbc6688aed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>href</name>
       <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>f53b5d0e-af14-417a-a9ef-aa8cf7af2b57</webElementGuid>
+      <value>shop.php</value>
+      <webElementGuid>10c4a0e9-d992-4878-aefb-f2bddbe6818d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shop</value>
+      <webElementGuid>1e6b5f28-9bb2-4ed8-b6df-77bb913fc470</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-9e9af563cb0d5d92f852b4749a4d17cd</value>
-      <webElementGuid>3947d4b4-e9a0-435e-8805-141ba7e13ae0</webElementGuid>
+      <value>md5.v1-0d41146db017072dfb18d65a7b036809</value>
+      <webElementGuid>14e9bd87-5fb2-436e-9198-021818dac3ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'password']</value>
-      <webElementGuid>c0a7cd1a-863c-48cd-81f2-20dae6668cd9</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' breadcrumb-item ') and (@href = 'shop.php')]</value>
+      <webElementGuid>ea52a64b-4be9-4a22-856e-e8b2d2fb6bc9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'password']</value>
-      <webElementGuid>5c9acf24-5917-4adb-9f18-423c198bb2a9</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' breadcrumb-item ') and (@href = 'shop.php')]</value>
+      <webElementGuid>2a1f4e60-9803-4790-8afc-d3bd8c71d0e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @id = 'password' and @placeholder = 'Password']</value>
-      <webElementGuid>e7ad6fdc-36b0-4f18-b816-2ea314cdaf80</webElementGuid>
+      <value>//a[@href = 'shop.php' and (text() = 'Shop' or . = 'Shop')]</value>
+      <webElementGuid>7c5193cb-6205-4dad-8271-31149742a08d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
